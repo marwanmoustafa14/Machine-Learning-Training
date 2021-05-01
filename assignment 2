@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "Copy of Copy of Mini_Projects_2.ipynb",
+      "name": "Copy of Mini_Projects_2.ipynb",
       "provenance": [],
       "include_colab_link": true
     },
@@ -410,10 +410,10 @@
         "def correct():\n",
         "  print(\"congratulations\")\n",
         "\n",
-        "def not_correct():\n",
-        "  print(\"wrong answer, the right answer is\",correct_ans)"
+        "def not_correct(x):\n",
+        "  print(\"wrong answer, the right answer is\",x)"
       ],
-      "execution_count": 5,
+      "execution_count": 49,
       "outputs": []
     },
     {
@@ -468,7 +468,7 @@
         "  return ke\n",
         "main()"
       ],
-      "execution_count": null,
+      "execution_count": 20,
       "outputs": [
         {
           "output_type": "stream",
